@@ -1,3 +1,3 @@
-#shopping list
-# 1.chcolate
-# cake
+# shopping list
+1.chcolate
+ cake
